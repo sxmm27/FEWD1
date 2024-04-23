@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Web Design| Media Queries</title>
+    <link href="CSS/reset.css" rel=stylesheet type="text/css">
+    <link href="CSS/main.css" rel=stylesheet type="text/css">
+</head>
+
+<body>
+   <header>
+       <h1>Sea Life</h1>
+       <h2>subheading</h2>
+       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro reprehenderit voluptates sit alias enim! Optio necessitatibus ullam, in doloremque ex distinctio dolorem ea vel consectetur tempore accusantium, nam repellat inventore.</p>
+   </header>
